@@ -197,18 +197,6 @@ weather-app/
 
 ## License
 
-MIT
-
-## Contributing
-
-Feel free to enhance this project! Possible improvements:
-- Add temperature unit options (Fahrenheit, Kelvin)
-- Add forecasting for multiple days
-- Add city name autocomplete
-- Store weather history
-- Add color output for better readability
-
-## Support
 
 For issues or questions, check:
 1. The Troubleshooting section above
